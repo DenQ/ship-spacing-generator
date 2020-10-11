@@ -20,7 +20,7 @@ module.exports = (params = initialInputParams) => {
     for (let i = 0; i < 10; i++) { // 10 попыток для заполнения матрицы
         const newMatrix = placement(params);
         if (newMatrix !== -1) {
-            console.log('Generate: ', i + 1);
+            // console.log('Generate: ', i + 1);
             return newMatrix;
         }
     }
