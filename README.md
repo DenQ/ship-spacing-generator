@@ -1,3 +1,5 @@
+![logo](https://github.com/DenQ/ship-spacing-generator/blob/master/assets/logo.gif)
+
 # ship-spacing-generator
 This library is a for generate matrix ship placement. For a sea battle game.
 
